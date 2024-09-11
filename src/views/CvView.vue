@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import pdf from '../assets/Steffen_Geving_CV_English_2024_09_04.pdf'
 </script>
 
 <template>
