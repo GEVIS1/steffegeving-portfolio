@@ -1,5 +1,3 @@
-<script></script>
-
 <template>
   <div class="banner">
     <p>🚨 This page is currently under construction. Breakage is to be expected. 🚨</p>
